@@ -1,7 +1,7 @@
 # Velocity Tracker
 ## A velocity tracker for Hitman WoA 
 - Made using the ZHMModSDK mod template
-- Based of an outdated Velocity mod 
+- Based off of an outdated Velocity mod 
 
 ## Installation Instructions
 
